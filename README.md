@@ -23,5 +23,5 @@ Code Sample
 
 Follow [this blog post](http://tinsuke.wordpress.com/2011/11/01/how-to-compile-and-use-tesseract-3-01-on-ios-sdk-5/) for more informations.
 
-
+iOS8 Updates?
 
